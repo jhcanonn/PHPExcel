@@ -10,4 +10,4 @@ PHPExcel is licensed under [LGPL (GNU LESSER GENERAL PUBLIC LICENSE)](https://gi
 
 ## Documentation
 
-http://apigen.juzna.cz/doc/ouardisoft/PHPExcel/class-PHPExcel_Worksheet_Row.html
+http://apigen.juzna.cz/doc/ouardisoft/PHPExcel/package-PHPExcel.html
